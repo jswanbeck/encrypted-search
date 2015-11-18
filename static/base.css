@@ -1,0 +1,92 @@
+/* master.css */
+/* Contains all CSS for the web application that isn't already handled by normalize.css and skeleton.css */
+
+/* Author: Jimmy Swanbeck */
+/* Endicott College */
+/* 12/31/14 */
+
+/* This CSS file contributes to the view layer of the web application:
+		Adds styles to HTML created by template files */
+
+/* IDs */
+#logo
+{
+	padding: 0px;
+	margin-top: 2%;
+	margin-bottom: -2%;
+}
+
+#colEncryptedSearch
+{
+	margin-top: 2.5%;
+}
+
+#colButtons
+{
+	margin-top: 2.5%;
+	margin-right: 0%;
+	padding: 0;
+}
+
+#colSearchDocuments
+{
+	margin-right: 0%;
+}
+
+#colPowerpoint
+{
+	margin-right: 0%;
+}
+
+#btnSearchDocuments
+{
+	margin-right: 0%;
+}
+
+#copyright
+{
+	text-align: center;
+	font-size: 13px;
+	color: gray;
+}
+
+#txtSearch
+{
+	margin: 0;
+	padding: 0;
+}
+
+#btnSearch
+{
+	margin: 0;
+	padding: 0;
+}
+
+/* Classes */
+.column,
+.columns 
+{
+	margin-right: 4%;  
+	margin-top: 4%;
+	padding: 10px; 
+	text-align: justify; 
+}
+
+.linkButton
+{
+	text-align: center;
+	padding: 0;
+}
+
+.menuLink
+{
+	margin-right: 1%;
+	width: 15.834% !important;
+}
+
+.actionButton
+{
+	padding-left: 10px; 
+	padding-right: 10px;
+	margin-right: 10px;
+}
