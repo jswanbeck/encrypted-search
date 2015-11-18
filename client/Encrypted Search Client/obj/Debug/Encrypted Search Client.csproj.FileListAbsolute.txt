@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\bin\Debug\Encrypted Search Client.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\bin\Debug\Encrypted Search Client.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\bin\Debug\Encrypted Search Client.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted Search Client.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted_Search_Client.frmMain.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted_Search_Client.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted Search Client.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted Search Client.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted Search Client.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted_Search_Client.frmLogin.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Encrypted Search Client\Encrypted Search Client\obj\Debug\Encrypted_Search_Client.frmCreateAccount.resources
